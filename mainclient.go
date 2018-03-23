@@ -2,7 +2,7 @@ package main
 
 import (
         "log"
-        "net/rcp"
+        "net/rpc"
 
         "github.com/jcsleiman/rpc-server/service"
 )
